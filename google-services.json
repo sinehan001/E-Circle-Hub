@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "816913098002",
+    "firebase_url": "https://sinehan-2212.firebaseio.com",
+    "project_id": "sinehan-2212",
+    "storage_bucket": "sinehan-2212.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816913098002:android:893c2d095baa8d914b7fcb",
+        "android_client_info": {
+          "package_name": "com.sinehan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816913098002-84cd0hs08pln7k1qq4buvf912ofhdv9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAawk05qF7pimmT4GF4f3JTnXBaVtt2H5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816913098002-84cd0hs08pln7k1qq4buvf912ofhdv9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

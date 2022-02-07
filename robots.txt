@@ -1,0 +1,30 @@
+# Notice : Collection of data on E-Circle Hub through automated means is prohibited
+# unless you have express written permission from E-Circle Hub
+
+User-agent: *
+Allow: /
+Allow: /ms/
+Allow: /Login.php
+Allow: /Signup.php
+Allow: /t&c.html
+Allow: /images/
+Allow: /posts/
+Allow: /assets/
+Allow: /sitemap.xml
+Disallow: /about.php
+Disallow: /announcement.php
+Disallow: /connect.php
+Disallow: /contact.php
+Disallow: /editpro.php
+Disallow: /friends.php
+Disallow: /funchat.php
+Disallow: /home.php
+Disallow: /logout.php
+Disallow: /newpost.php
+Disallow: /post.php
+Disallow: /profile.php
+Disallow: /report.php
+Disallow: /reportinfo.html
+Disallow: /search.php
+Disallow: /search1.png
+Disallow: /welcome.php
